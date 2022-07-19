@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [NFT Marketplace](https://github.com/Le4kno3/NFT-Marketplace-Projects/tree/main/NFT-Marketplace-Project1)
 
-- 🌱 I’m currently learning **Blockchain Development and Keeping up to date with Appsec**
+- 🌱 I’m currently improving my **Blockchain Development Skills and Keeping up to date with Appsec**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Le4kno3](https://github.com/Le4kno3)
 
