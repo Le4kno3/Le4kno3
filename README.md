@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react, solidity**
 
-- 📫 How to reach me **takshil.patil529@gmail.com**
+- 📫 How to reach me **le4kno3@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/takshilpatil](www.linkedin.com/in/takshilpatil)
 
