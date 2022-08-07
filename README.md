@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Takshil</h1>
 <h3 align="center">Passionate about Appsec and Blockchain Development</h3>
 
-- 🔭 I’m currently working on [NFT Marketplace](https://github.com/Le4kno3/NFT-Marketplace-Projects/tree/main/NFT-Marketplace-Project1)
+- 🔭 I’m currently working on [NFT Marketplace Community App](https://github.com/cotry/)
 
 - 🌱 I’m currently improving my **Blockchain Development Skills and Keeping up to date with Appsec**
 
